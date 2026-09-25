@@ -5,7 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gklodh" alt="gklodh" /></a> </p>
 
+- 🔭 I’m currently working on **Web Application Deployment with CI/CD Pipeline**
+
+- 🌱 I’m currently learning **Kubernetes, Helm, Terraform and advanced CI/CD practices**
+
+- 👯 I’m looking to collaborate on **Scalable and Highly Available Web Application Hosting on AWS**
+
+- 🤝 I’m looking for help with **GitLab CI/CD & Infrastructure Monitoring**
+
+- 👨‍💻 All of my projects are available at [https://github.com/yourusername](https://github.com/yourusername)
+
+- 💬 Ask me about **DevOps & Infrastructure Support Engineer focused on AWS, Linux, Docker, CI/CD, monitoring, and automation. I'm currently building production-style DevOps projects to strengthen my hands-on experience with cloud infrastructure, containerization, CI/CD pipelines, monitoring, and configuration management.**
+
 - 📫 How to reach me **gourablodh1357@gmail.com**
+
+- 📄 Know about my experiences [test](test)
+
+- ⚡ Fun fact **I enjoy taking manual infrastructure tasks and turning them into automation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
