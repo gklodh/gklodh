@@ -66,7 +66,7 @@ fun_fact: I enjoy taking manual infrastructure tasks and turning them into autom
   <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="45" height="45"/></a>
   <a href="https://www.zabbix.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="45" height="45"/></a>
   <a href="https://wazuh.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" alt="wazuh" width="45" height="45"/></a>
-  <a href="https://checkmk.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/checkmk/checkmk-icon.svg" alt="checkmk" width="45" height="45"/></a>
+  <a href="https://checkmk.com" target="_blank"><img src="https://dashboardicons.com/icons/checkmk" alt="checkmk" width="45" height="45"/></a>
   <a href="https://www.graylog.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="45" height="45"/></a>
 </p>
 
