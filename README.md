@@ -2,9 +2,9 @@
 <h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="mailto:gourablodh1357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/gklodh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:gourablodh1357@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/gklodh"><img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gklodh&label=Profile%20views&color=0e75b6&style=flat" alt="gklodh" /> </p>
@@ -41,7 +41,18 @@ fun_fact: I enjoy taking manual infrastructure tasks and turning them into autom
 
 **☁️ Cloud (AWS)**
 <p>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2.png" alt="ec2" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/SimpleStorageService.png" alt="s3" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/ebs/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/ElasticBlockStore.png" alt="ebs" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/ElasticLoadBalancing.png" alt="elb" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/ec2/autoscaling/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/EC2AutoScaling.png" alt="autoscaling" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" alt="vpc" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/iam/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/IdentityandAccessManagement.png" alt="iam" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/kms/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/SecurityIdentityCompliance/KeyManagementService.png" alt="kms" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/efs/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Storage/EFS.png" alt="efs" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Compute/Lambda.png" alt="lambda" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/RDS.png" alt="rds" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/Database/DynamoDB.png" alt="dynamodb" width="45" height="45"/></a>
 </p>
 
 **📦 Containers & Orchestration**
@@ -65,8 +76,8 @@ fun_fact: I enjoy taking manual infrastructure tasks and turning them into autom
   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="45" height="45"/></a>
   <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="45" height="45"/></a>
   <a href="https://www.zabbix.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="45" height="45"/></a>
-  <a href="https://wazuh.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/wazuh/wazuh-icon.svg" alt="wazuh" width="45" height="45"/></a>
-  <a href="https://checkmk.com" target="_blank"><img src="https://dashboardicons.com/icons/checkmk" alt="checkmk" width="45" height="45"/></a>
+  <a href="https://wazuh.com" target="_blank"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg" alt="wazuh" width="45" height="45"/></a>
+  <a href="https://checkmk.com" target="_blank"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/checkmk.svg" alt="checkmk" width="45" height="45"/></a>
   <a href="https://www.graylog.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="45" height="45"/></a>
 </p>
 
@@ -103,21 +114,21 @@ fun_fact: I enjoy taking manual infrastructure tasks and turning them into autom
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gklodh&show_icons=true&locale=en&theme=default" alt="gklodh" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gklodh&show_icons=true&locale=en&layout=compact" alt="gklodh" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gklodh&theme=default" alt="gklodh stats" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gklodh&theme=default" alt="gklodh languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gklodh" alt="gklodh" />
+  <img src="https://streak-stats.demolab.com/?user=gklodh" alt="gklodh streak" />
 </p>
 
 ---
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
-  <a href="mailto:gourablodh1357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gklodh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:gourablodh1357@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="gmail"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="45" alt="linkedin"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/gklodh"><img src="https://cdn.simpleicons.org/github/181717" height="45" alt="github"/></a>
 </p>
 
 <p align="center">⭐ <i>If you like my work, consider starring a repository — it means a lot!</i> ⭐</p>
