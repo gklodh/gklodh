@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:gourablodh1357@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin"/></a>&nbsp;&nbsp;
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/gourab-lodh-419a6b20a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin"/></a>&nbsp;&nbsp;
   <a href="https://github.com/gklodh"><img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github"/></a>
 </p>
 
